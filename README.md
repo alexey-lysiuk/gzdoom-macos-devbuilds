@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.15pre-17-g786bfa6419`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.15pre-17-g786bfa6419/gzdoom-g4.15pre-17-g786bfa6419.zip)|`2421ae9413f18fa2725ce4025832b79bfeca97d4a833ed8202fb80bae3ee9347`|
 
 [Previous builds - 2024](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds-2024)<br>
 [Previous builds - 2023](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds-2023)<br>
